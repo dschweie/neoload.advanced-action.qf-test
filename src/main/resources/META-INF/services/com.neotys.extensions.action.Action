@@ -1,0 +1,4 @@
+org.dschweie.neoload.advancedactions.qf_test.daemon.QFTestPingAction
+org.dschweie.neoload.advancedactions.qf_test.daemon.QFTestExecuteAction
+org.dschweie.neoload.advancedactions.qf_test.daemon.QFTestStartAction
+org.dschweie.neoload.advancedactions.qf_test.daemon.QFTestStopAction
